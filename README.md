@@ -8,7 +8,7 @@
 
 缓存技术：Redis（缓存服务器）
 
-消息队列：RabbitMQ
+消息队列：ActiveMQ
 
 搜索技术：Solr（搜索）
 
